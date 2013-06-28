@@ -1,4 +1,4 @@
-// Configuration
+// Configuration 
 const int sensorAnalogIN = 0; // Analog Pin connected to Stretch Sensor
 const int transistorOUT= 9; // Digital output PWM Pin (3,5,6,9,10,11) connected to actuator Transistor (connected to Nithinol Spring)
 const int vibrationOUT = 12; // Output powered to signal the end of calibration.
